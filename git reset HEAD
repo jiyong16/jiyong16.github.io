@@ -1,0 +1,184 @@
+[33mcommit b1d62f490a511e52059a34287db2eef8e66b2420[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 17:42:26 2021 +0900
+
+    last
+
+[33mcommit 64b4279ff661779fc5890522b00ffea06bd91939[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 17:37:44 2021 +0900
+
+    T.T
+
+[33mcommit c0107957f58017eecfd1105dbe58f38407939033[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 17:32:23 2021 +0900
+
+    blank
+
+[33mcommit 95d6e229835a6af83245330f727338bd56764879[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 17:20:14 2021 +0900
+
+    post fix
+
+[33mcommit 6468ff9e6ce5dfea93fc296d3e9a9dcefa247f12[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 17:16:07 2021 +0900
+
+    post update
+
+[33mcommit a651756ed3c294cba1615cdf62f94a87d83974da[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 17:03:38 2021 +0900
+
+    font fix
+
+[33mcommit f435a41cdf9a3bda9fbcb94f96dc31cab959f6f8[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 17:00:46 2021 +0900
+
+    post update
+
+[33mcommit a626abe3974cf9fe83dfae1ff5c364b1154d7599[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 16:23:32 2021 +0900
+
+    config file fix challenge
+
+[33mcommit 230a83b179bcd7851c9661a1b7e40de8dac99dc2[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 16:15:36 2021 +0900
+
+    page reset
+
+[33mcommit fb364c5f9cb4485ff7abebc45795845034e2f433[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 16:13:30 2021 +0900
+
+    url fix
+
+[33mcommit 785e4dea1b58cc084d69c276a8867b03468a7a94[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 16:12:21 2021 +0900
+
+    sidebar-fix
+
+[33mcommit 5509b256026e7c4ecec74807f37e96bef6a24e79[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 16:02:42 2021 +0900
+
+    url
+
+[33mcommit f8d59ac15d62fa84565fa4cd2490716163e91306[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 16:01:05 2021 +0900
+
+    mozi
+
+[33mcommit f83affae9e01be658afcff3ae7b7482c4e1888d2[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 15:57:02 2021 +0900
+
+    font size
+
+[33mcommit def639bef4baf93f4a07c6cf8feeb24e59e11c6c[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 15:54:52 2021 +0900
+
+    font size
+
+[33mcommit b36b7416d9590da603a097a359288d16037dcd73[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 15:49:13 2021 +0900
+
+     add address
+
+[33mcommit 4b53e49ea24ac27cf85b0d8415d16eee4ef9d72c[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 15:42:15 2021 +0900
+
+    test
+
+[33mcommit 891d826fb7b62f5f37bf6e7878bfd06450da53de[m
+Author: jiyong16 <p_ji_y@naver.com>
+Date:   Mon Jan 11 15:14:09 2021 +0900
+
+    첫 게시물테스트
+
+[33mcommit 97c57e63a3503f44508041eb87f7c79ebcc00786[m
+Merge: 981fc0e fc5bcf9
+Author: Euijong Joo <ejjoo7994@gmail.com>
+Date:   Sat Aug 15 02:23:33 2020 +0900
+
+    Merge pull request #1 from ejjoo/dependabot/bundler/kramdown-2.3.0
+    
+    Bump kramdown from 2.1.0 to 2.3.0
+
+[33mcommit fc5bcf971fac843d1940da8367d3be79cffb313e[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Aug 8 02:10:42 2020 +0000
+
+    Bump kramdown from 2.1.0 to 2.3.0
+    
+    Bumps [kramdown](https://github.com/gettalong/kramdown) from 2.1.0 to 2.3.0.
+    - [Release notes](https://github.com/gettalong/kramdown/releases)
+    - [Changelog](https://github.com/gettalong/kramdown/blob/master/doc/news.page)
+    - [Commits](https://github.com/gettalong/kramdown/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 981fc0ee80680f271883789299e0a2605f99ad22[m
+Author: Euijong Joo <ejjoo@archbears.com>
+Date:   Thu Jan 9 03:33:48 2020 +0900
+
+    update category functions
+
+[33mcommit b50915874e36854deec887a363ad40545ef3701d[m
+Author: Euijong Joo <ejjoo7994@gmail.com>
+Date:   Thu Jan 2 19:54:01 2020 +0900
+
+    Create README.md
+
+[33mcommit f9df9f65ffd4532e29a45d6aaf2f9a18224d2bbb[m
+Author: Euijong Joo <ejjoo@archbears.com>
+Date:   Thu Jan 2 19:53:31 2020 +0900
+
+    remove README.md
+
+[33mcommit 9a9bfef0425c3b43ec9b2ded672049d9cef766ca[m
+Merge: f66b17a 972565e
+Author: Euijong Joo <ejjoo@archbears.com>
+Date:   Thu Jan 2 19:49:54 2020 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit f66b17a384e1ea2d887d2c8dfbf0bfff7ec63177[m
+Author: Euijong Joo <ejjoo@archbears.com>
+Date:   Thu Jan 2 19:49:40 2020 +0900
+
+    add readme and some screenshots
+
+[33mcommit e86bf4ceab171d4b0cacbf1a59939bd456eef1a4[m
+Author: Euijong Joo <ejjoo@archbears.com>
+Date:   Thu Jan 2 19:41:25 2020 +0900
+
+    sample post\
+
+[33mcommit 7d76dc51656e2244af80082597f2631fd63a65cd[m
+Author: Euijong Joo <ejjoo@archbears.com>
+Date:   Thu Jan 2 19:41:12 2020 +0900
+
+    update config and about page
+
+[33mcommit 972565e9cd7babf20fe07d5352d7bb6bd0400563[m
+Author: Euijong Joo <ejjoo7994@gmail.com>
+Date:   Thu Jan 2 19:09:28 2020 +0900
+
+    Create README.md
+
+[33mcommit ac747ab98765439181ba5ae0ce64ca2e17e82f6b[m
+Author: Euijong Joo <ejjoo@archbears.com>
+Date:   Thu Jan 2 19:08:06 2020 +0900
+
+    init
