@@ -21,8 +21,8 @@
 title: 망고스무디
 email: p_ji_y@naver.com
 description: 코린이
- baseurl: "https://jiyong16.github.io" # the subpath of your site, e.g. /blog
- url: "https://jiyong16.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+ baseurl: https://jiyong16.github.io # the subpath of your site, e.g. /blog
+ url: https://jiyong16.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jiyong16
 highlighter: rouge
 svg:
