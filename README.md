@@ -9,5 +9,7 @@ permalink: /about/
 
 >2021-01-07 ~ CSS 공부시작
 
+>2021-01-24 ~ javascript&jQuery 공부시작
+
 #### 코딩 연습중인 홈페이지
 ><a href="http://mangosmoothie.dothome.co.kr" target="_blank">공차</a>
